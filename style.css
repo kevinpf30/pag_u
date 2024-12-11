@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(71, 87, 87);
+    color: rgb(235, 234, 232);
+}
+
+h1, h2 {
+    color: rgb(226, 198, 13);
+    font-size: bold;
+}
+
+
+p a {
+    text-decoration: none;
+    color: rgb(0, 224, 249);
+}
